@@ -1,9 +1,8 @@
 <?php
 echo "<h1>Openshift Workshop o/</h1> ";
+echo $_SERVER['SERVER_ADDR']
 
 echo "<h4>Versão 2.0</h4> ";
-
-echo $_SERVER['SERVER_ADDR']
 
 echo "<br><hr>";
 echo "<h2>Cidades cadastradas no Banco de Dados:</h2>";
